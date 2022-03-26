@@ -1,6 +1,6 @@
 <?php
 
-$to = 'info@tripgyani.com'; //<-----Put Your email address here.
+$to = 'vloggers.tripgyani@gmail.com'; //<-----Put Your email address here.
 $name = $email = $phone = $message = "";
 
 if (!empty($_POST['name']) && !empty($_POST['email'])) {
