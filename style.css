@@ -112,7 +112,7 @@ a:focus, button:focus {outline:0px solid}
 input:focus {box-shadow: 0; outline: 0}
 textarea {box-shadow: 0; outline: 0}
 img {
-    max-width:100%;
+    /* max-width:100%; */
     height:auto;
     border:0;
     vertical-align:top;
@@ -469,7 +469,7 @@ ul.header-r-cart li:hover .mini-cart-content {
 .mainmenu ul#nav li:first-child {margin-left: 0}
 .mainmenu ul#nav li:last-child {margin-right: 0}
 .mainmenu ul#nav li.drop-down {position: relative}
-.mainmenu ul#nav li a {
+.tripnav {
     /* color: #fff; */
   background-color: #fff;
   border: 1px solid #000;
@@ -545,7 +545,7 @@ ul.header-r-cart li:hover .mini-cart-content {
 }
 .mainmenu ul#nav li .megamenu span > a:hover, .mainmenu ul#nav li ul.sub-menu li a:hover {color: #2196f3;}
 .mainmenu ul#nav li .megamenu span > a, .mainmenu ul#nav li ul.sub-menu li a {
-    color: #000;
+    color: #fff;
     display: block;
     font-size: 14px;
     line-height: 21px;
