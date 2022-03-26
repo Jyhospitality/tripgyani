@@ -1,0 +1,1004 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from www.oceanspray.in/rooms_villas/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/rm-v-bermuda.jpg by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Sep 2018 10:24:36 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Luxury rooms & villas at beach resorts in pondicherry - Ocean Spray Beach Resort</title>    <meta name='description' content='Find perfect bliss by staying at one of the finest beach resorts in Pondicherry. Located near Auro Beach, sitting on Paradise beach, enjoy the perfect stay at 5 star hotel rooms in Pondicherry'>
+<meta name='keywords' content='Book Hotels in Pondicherry, Online Hotel Booking, Hotels In Pondicherry, Resorts In Pondicherry, 5 Star Hotels In Pondicherry, Pondy Resorts, Hotels Near Paradise Beach, Hotels Near Auro Beach, Luxury Hotels/Resort in Pondicherry'>    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="icon" href="https://www.oceanspray.in/application/web/views/web/img/favicon.ico" sizes="16x16"> -->
+
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/css/bootstrap.min.css"/>
+
+    <link rel="stylesheet" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/css/style.min.css"/>
+
+</head>
+
+<body id="home_one" class="vr-menu child-page" data-ini-page="rooms">
+
+<script type="text/javascript" charset="utf-8">var PROJ_URL="../../../../../../../../../../../../../../../../../../../../../../../../../../../../index.html";</script>
+
+<!-- Modal -->
+<div class="modal fade" id="editTextData" tabindex="-1" role="dialog" aria-labelledby="ModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" data-ini-page="" id="ModalLabel">Modal title</h4>
+            </div>
+            <div class="modal-body">
+                <div class="text-update-wrap">
+                    <textarea rows="4" cols="100" style="width: 100%;resize: none;"></textarea>
+                </div>
+                <div class="img-upload-wrap">
+                    <input id="input-image-1" name="files" type="file" class="file-loading" accept="image/*">
+                </div>
+            </div>
+            <div class="modal-footer text-update-wrap">
+                <button type="button" class="btn btn-default btn-close" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary save">Save Changes</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<header class="header_area vr-menu">
+
+    <!-- start main header -->
+    <div class="main_header_area">
+        <div class="container">
+            <!-- start mainmenu & logo -->
+            <div class="mainmenu">
+                <div class="site_logo clearfix custom">
+                    <div class="frame-border left border" style="left: -2.5px;"></div>
+                    <div class="frame-border right border" style="right: -2.5px;"></div>
+                    <a class="clearfix navbar-brand" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../index.html">
+                        <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/img/icon/ocean.png" alt="ocean"></a>
+                </div>
+                <div id="nav">
+                    <div class="frame-border left border"></div>
+                    <div class="frame-border right border"></div>
+                    <div class="frame-border bottom border"></div>
+                    <nav class="navbar navbar-default">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <div class="site_logo fix mobile-device">
+                                <a class="clearfix navbar-brand" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../index.html">
+                                    <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/img/icon/ocean.png" alt="ocean"></a>
+                            </div>
+                        </div>
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="menu-area clearfix">
+                            <div class="main-menu">
+                                <a href="#" class="active" style="cursor: default;">MAIN MENU</a>
+                            </div>
+                            <div class="collapse navbar-collapse navbar-left" id="bs-example-navbar-collapse-1">
+                                <ul class="nav navbar-nav">
+                                    <li>
+                                        <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../rooms_villas.html" class=" active">
+                                            <i class="ocean-icon-32 rooms"></i>
+                                            <span class="text">Rooms & Villas</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../dining.html" class="">
+                                            <i class="ocean-icon-32 dinning"></i>
+                                            <span class="text">Dining</span>
+                                        </a>
+                                    </li>
+                                    <!--<li>
+                                        <a href="https://www.oceanspray.in/discotheque"
+                                           class="">
+                                            <i class="ocean-icon-32 discotheque"></i>
+                                            <span class="text"></span>
+                                        </a>
+                                    </li>-->
+                                    <li class="banquet">
+                                        <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../banquet.html" class="">
+                                            <i class="ocean-icon-32 banquet"></i>
+                                            <span class="text">Banquet</span>
+                                        </a>
+                                    </li>
+                                    <li class="recreation">
+                                        <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../recreation.html" class="">
+                                            <i class="ocean-icon-32 recreation"></i>
+                                            <span class="text">Recreation</span>
+                                        </a>
+                                    </li>
+                                    <!-- <li>
+                                         <a href="#">
+                                             <i class="ocean-icon-32 celebration"></i>
+                                             <span class="text">Celebrations</span>
+                                         </a>
+                                     </li>-->
+                                    <li class="events">
+                                        <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../events.html" class="">
+                                            <i class="ocean-icon-32 events"></i>
+                                            <span class="text">Events</span>
+                                        </a>
+                                    </li>
+                                    <li class="hotel-facilities">
+                                        <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../hotel_facilities.html" class="">
+                                            <i class="ocean-icon-32 facilities"></i>
+                                            <span class="text">Hotel Facilities</span>
+                                        </a>
+                                    </li>
+                                    <li class="spa">
+                                        <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../spa.html" class="">
+                                            <i class="ocean-icon-32 spa"></i>
+                                            <span class="text">Elysium Spa</span>
+                                        </a>
+                                    </li>
+                                    <li class="contact">
+                                        <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../contact.html" class="">
+                                            <i class="ocean-icon-32 contact"></i>
+                                            <span class="text">Contact</span>
+                                        </a>
+                                    </li>
+                                    <li class="resort">
+                                        <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../about.html" class="">
+                                            <i class="ocean-icon-32 resort"></i>
+                                            <span class="text">About Us</span>
+                                        </a>
+                                    </li>
+                                    <li class="book-now-button" style="display: none">
+                                        <a class="book-now" href="https://secure.staah.com/common-cgi/package/packagebooking.pl?propertyId=1863&amp;Ln=en" target="_blank">BOOK NOW</a>
+                                    </li>
+                                    <!--<li class="activities">
+                                        <a href="#">
+                                            <i class="ocean-icon-32 activities"></i>
+                                            <span class="text">Daily Activities</span>
+                                        </a>
+                                    </li>-->
+                                </ul>
+                            </div>
+                        </div><!-- /.navbar-collapse -->
+                        <div class="ribbon-wrap">
+                            <div class="end-ribbon"></div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <!-- end mainmenu and logo -->
+        </div>
+    </div>
+    <!-- end main header -->
+
+</header>
+
+<!-- start hotel booking -->
+<div class="hotel_booking_area mobile-device">
+    <div class="container">
+        <div class="hotel_booking">
+            <form id="form1" role="form" action="#" class="">
+                <div class="form-group col-lg-2 col-md-2 col-sm-2">
+                    <div class="input-group border-bottom-dark-2">
+                        <input class="date-picker" id="datepicker" placeholder="Arrival" type="text"/>
+                        <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
+                    </div>
+                </div>
+                <div class="form-group col-lg-2 col-md-2 col-sm-2">
+                    <div class="input-group border-bottom-dark-2">
+                        <input class="date-picker" id="datepicker1" placeholder="Departure" type="text"/>
+                        <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
+                    </div>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-8">
+                    <div class="row">
+                        <div class="form-group col-lg-3 col-md-3 col-sm-3 icon_arrow">
+                            <div class="input-group border-bottom-dark-2">
+                                <select class="form-control" name="room" id="room">
+                                    <option selected="selected" disabled="disabled">1 Room</option>
+                                    <option value="Single">1 Room</option>
+                                    <option value="Double">2 Room</option>
+                                    <option value="Deluxe">3 Room</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group col-lg-3 col-md-3 col-sm-3 icon_arrow">
+                            <div class="input-group border-bottom-dark-2">
+                                <select class="form-control" name="room" id="adult">
+                                    <option selected="selected" disabled="disabled">1 Adult</option>
+                                    <option value="Single">1 Adult</option>
+                                    <option value="Double">2 Adult</option>
+                                    <option value="Deluxe">3 Adult</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group col-lg-3 col-md-3 col-sm-3 icon_arrow">
+                            <div class="input-group border-bottom-dark-2">
+                                <select class="form-control" name="room" id="child">
+                                    <option selected="selected" disabled="disabled">0 Child</option>
+                                    <option value="Single">0 Child</option>
+                                    <option value="Double">1 Child</option>
+                                    <option value="Deluxe">2 Child</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                            <a class="btn btn-primary floatright book-now">Book</a>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="hotel_booking_area custom">
+    <div class="container">
+        <div class="hotel_booking">
+            <form id="form1" role="form" action="https://secure.staah.com/common-cgi/package/packagebooking.pl" target="_blank" class="" method="GET" name="">
+                <input type="hidden" name="propertyId" id="propertyId" value="1863">
+                <input type="hidden" id="Ln" name="Ln" value="en">
+                <div class="booking-section">
+                    <div class="form-group col-lg-3 col-md-3 col-sm-3 show-date-picker">
+                        <div class="row">
+                            <div class="col-lg-9 col-md-9 col-sm-9 padding-0">
+                                <label>check-in</label>
+                                <div class="input-group">                                    <input class="date-picker" id="checkIn" name="checkIn" required="required" oninvalid="$.ocean.validMsg(this);" data-error-message="Please enter Check-In date" placeholder="Select Date" value="" type="text"/>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-sm-3 calender padding-0">
+                                <div class="input-group-addon">
+                                    <i class="ocean-icon-22 calendar"></i>                                    <div class="day" id="current-day"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group col-lg-3 col-md-3 col-sm-3 show-date-picker">
+                        <div class="row">
+                            <div class="col-lg-9 col-md-9 col-sm-9 padding-0">
+                                <label>check-out</label>
+                                <div class="input-group">
+
+                                                                        <input class="date-picker" id="checkOut" name="checkOut" required="required" oninvalid="$.ocean.validMsg(this)" data-error-message="Please enter Check-Out date" placeholder="Select Date" value="" type="text"/>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-sm-3 calender padding-0">
+                                <div class="input-group-addon">
+                                    <i class="ocean-icon-22 calendar"></i>
+                                    <div class="day" id="next-day"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group col-lg-2 col-md-2 col-sm-2 room-pax">
+                        <div class="row">
+                            <div class="col-lg-8 col-md-8 col-sm-8 padding-0">
+                                <label>GUESTS</label>
+                                <div class="input-group">
+                                    <!--<input class="input-room" type="text" value="1" readonly="true"/>-->
+                                    <dl class="vertical">
+                                        <dd>
+                                            <select name="nguest" id="nguest" title="Number of Guests" oninvalid="$.ocean.validMsg(this);" data-error-message="Please select no of Guests" class="span span20" required="required">
+                                                <option value="1" selected="true">1</option>
+                                                <option value="2">2</option>
+                                                <option value="3">3</option>
+                                                <option value="4">4</option>
+                                                <option value="5">5</option>
+                                                <option value="6">6</option>
+                                                <option value="7">7</option>
+                                                <option value="8">8</option>
+                                                <option value="9">9</option>
+                                                <option value="10">10</option>
+                                            </select>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                            <!--<div class="col-lg-7 col-md-6 col-sm-6">
+                                <label>Adult</label>
+                                <div class="input-group">
+                                    <input class="input-members" type="text" value="1" readonly="true"/>
+                                </div>
+                            </div>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                    <button type="submit" value="BOOK NOW" class="btn btn-primary book-now">BOOK NOW</button>
+                </div>
+            </form>
+        </div>
+
+        <!-- room-pax-->
+        <!--<div class="room-pax-section-wrap">
+            <div class="room-pax-widget row margin-tb-15" data-roompaxwidget="true" data-template="RoomPaxWidget">
+                <ul>
+                    <li class="rooms">
+                        <section class="row selection-panel">
+                            <div class="col-lg-1 col-md-1 col-sm-2 col-xs-12">
+                                <dl class="vertical roomNo">
+                                    <dt><label title="Number of rooms"><strong>Rooms</strong></label></dt>
+                                    <dd><select class="span span20 select-room" title="Number of rooms" tabindex="5">
+                                            <option value="1" selected="true">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5</option>
+                                            <option value="6">6</option>
+                                        </select></dd>
+                                </dl>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+                                <dl class="vertical">
+                                    <dt class="margin-bottom-5">&nbsp;</dt>
+                                    <dd style="text-align:right;">
+                                        <span  id="Room1">Room 1:</span>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+                                <dl class="vertical">
+
+                                    <dt><label for="Adults" title="Number of adults"><strong>Adults</strong></label>
+                                        <small class="hint">(12+)</small>
+                                    </dt>
+
+                                    <dd>
+                                        <select size="1" id="Adult_1" title="Number of adults"
+                                                class="span span20 renderAdult alterAdult" tabindex="6">
+                                            <option value="1">1</option>
+                                            <option value="2" selected="true">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                        </select>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 alter-width">
+                                <dl class="vertical">
+                                    <dt><label for="Childrens" title="Number of Guests">Guests</label>
+                                        <small class="hint">(11+)</small>
+                                    </dt>
+                                    <dd>
+                                        <select size="1" id="Childs_1" title="Number of Guests"
+                                                class="span span20" tabindex="7">
+                                            <option value="0" selected="true">0</option>
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5</option>
+                                            <option value="6">6</option>
+                                            <option value="7">7</option>
+                                            <option value="8">8</option>
+                                            <option value="9">9</option>
+                                            <option value="10">10</option>
+                                        </select>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                <div id="Age_1" class="row" style="">
+                                    <div class="row">
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </li>
+                </ul>
+            </div>
+            <input type="hidden" id="NoOfRoom" name="num_rooms" value="1">
+        </div>-->
+        <!-- room pax end -->
+
+    </div>
+</div>
+<!-- end hotel booking -->
+
+<!-- start admin block -->
+<!-- end admin block -->
+
+
+<!-- start widget block -->
+<div class="widget-area">
+    <div class="widget">
+        <div class="row">
+            <div class="row">
+                <div class="input-group language">
+                    <select class="form-control language-select" name="room" id="child">
+                        <option value="english" selected="selected">English</option>
+                        <option value="tamil">Tamil</option>
+                        <option value="hindi">Hindi</option>
+                        <option value="french">French</option>
+                    </select>
+                </div>
+                <span class="current-time floatright padding-top-5"></span>
+            </div>
+            <div class="row widget-icon">
+                <a href="#" class="location-link">
+                    <i class="ocean-icon-32 location"></i>
+                </a>
+                <span class="call-link">
+                    <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../contact.html" class="ocean-icon-32 call"></a>
+                    <i class="call-text">+91-413-2650000</i>
+                </span>
+                <div class="socialCircle-container">
+                    <a href="https://www.pinterest.com/pin/create/button/" data-pin-custom="true" target="_blank" class="socialCircle-item" data-toggle="tooltip" data-placement="top" data-original-title="Pin it"><i class="ocean-icon-32 pinterest"></i></a>
+                    <a href="https://twitter.com/home?status=Unwind%20amidst%20the%20freshness%20and%20tranquility%20at%20this%20idyllic%20luxury%20resort.%20oceanspray.in" target="_blank" class="socialCircle-item" data-toggle="tooltip" data-placement="top" data-original-title="Share on Twitter"><i class="ocean-icon-32 twitter"></i></a>
+                    <a href="https://www.facebook.com/sharer.php?s=100&amp;p%5Burl%5D=www.oceanspray.in" target="_blank" class="socialCircle-item" data-toggle="tooltip" data-placement="top" data-original-title="Share on Facebook"><i class="ocean-icon-32 facebook"></i></a>
+                    <a href="#" class="socialCircle-center closed heart-icon"><i class="ocean-icon-32 heart"></i></a>
+                </div>
+            </div>
+            <div class='row widget-weather' data-created-time='1538042466'>
+                                <span class='weather'>
+                                    <i class='ocean-icon-22 icon-weather'></i>
+                                    <span class='text'>86 F/30 C</span>
+                                </span>
+                            </div>        </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-2 location-map">
+        <div class="footer_widget">
+            <!-- <h5>We Are Global</h5>-->
+            <div class="oceanspray-map">
+                <div class="ocean-spray-map" style="height:380px;list-style:none; transition: none;overflow:hidden; margin: 0 auto;">
+                    <div id="embedded-map-display" style="height:100%; width:100%;max-width:100%;">
+                        <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.4199608791331!2d79.87999859802666!3d12.065535253715113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a536582531044e9%3A0xccde1ed275afab2d!2sOcean+Spray!5e0!3m2!1sen!2sus!4v1493297803353"></iframe>
+                    </div>
+                    <a class="code-for-google-map" id="authorize-map-data">bluehost vs godaddy</a>
+                    <style>#embedded-map-display .map-generator{max-width:100%;max-height:100%;background:none}</style>
+                </div>
+                <!--<a href="#"><img src="https://www.oceanspray.in/application/web/views/web/img/footer-map-two.jpg" alt=""></a>-->
+            </div>
+        </div>
+        <div class="contact-us-link">
+            <a class="btn btn-primary contact-us" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../contact.html">Contact Us</a>
+        </div>
+    </div>
+</div>
+<!-- end widget block -->
+<p id="back-top" style="display: none;">
+    <a href="#top"><span></span></a>
+</p>
+
+<p id="mobile-book-now">
+    <a href="https://secure.staah.com/common-cgi/package/packagebooking.pl?propertyId=1863&amp;Ln=en" target="_blank"><span>Book Now</span></a>
+</p><!-- end header -->
+
+<section class="banner-container room-villas-area contact-bottom-area">
+    <!--Breadcrumb Start-->
+    <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-12 padding-5 col-md-offset-3 col-sm-offset-3">
+            <div id="breadcrumb" class="breadcrumb">
+                                    <span class="breadcrumb-item ">
+                        <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../index.html">Home</a>
+                    </span>
+                                    <span class="breadcrumb-item active">
+                        <a href="javascript:void(0)">Rooms & Villas</a>
+                    </span>
+                            </div>
+        </div>
+    </div>
+    <!--Breadcrumb End-->
+    <div class="container room-villas-img">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 room-villas-img">
+                <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/img/icon/home-img/rooms_villas.jpg" alt="Rooms & Villas">
+               <span class="banner-tag" title="Experience a Culture of Refined Relaxation">Experience a Culture of Refined Relaxation</span>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 padding-0 ocean-circle-images r-villas" data-scroll-to-element="ocean-villas" style='background:url("rm-v-bermuda.fd.delaye") bottom;background-size: cover;'>
+                <div class="row  book-wrap">
+                    <div class="blur" style='background:url("rm-v-bermuda.fd.delaye") bottom;background-size: cover;'></div>
+                    <div class="wrap-text">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="ocean-circle-title villas-rooms-title">Villas</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 padding-0 ocean-circle-images r-rooms" data-scroll-to-element="ocean-rooms" style='background:url("../i/rm-v-ferns-room.fe.dela") bottom;background-size: cover;'>
+                <div class="row  book-wrap">
+                    <div class="blur" style='background:url("../i/rm-v-ferns-room.fe.dela") bottom;background-size: cover;'></div>
+                    <div class="wrap-text">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="ocean-circle-title villas-rooms-title"> Rooms </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- start Villas section -->
+<section id="ocean-villas" class="room-villas-area os-villas os-bottom-area os-page-title">
+    <div class="r-v-content edit-content" contenteditable="false" data-name="R_V_CONTENT">Leading 5 star <a href=../../../../../../../../../../../../../../../../../../../../../../../../../../../../best_hotels_to_stay_in_pondicherry.html target=_blank>hotels in Pondicherry</a> - At Ocean Spray we strive to make your stay an unforgettable experience. We offer 72 beautifully appointed guest rooms and 28 villas, all inspired by nature. All our rooms and villas boast of elegant and refined furnishing, modern amenities and ultimate comfort. All our rooms are WiFi enabled and come with a  tea / coffee maker, electronic safety locker, TV, hot water, air-conditioning and direct dialling facilities. We offer dine-in options with 24 x 7 room service, laundry facilities, complimentary Newspaper and complimentary use of the swimming pool. Enjoy a home away from home.</div>
+    <div class="content-center">
+        <div class="os-title-wrap os-villas-title-wrap">
+            <p class="os-title-text os-villas-text edit-content" contenteditable="false" data-name="VILLAS_TITLE">Villas</p>
+        </div>
+    </div>
+    <div class="container ocean-square-images">
+        <div class="row">
+            <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../bermuda_villas.html">
+                <div class="col-lg-4 col-md-4 col-sm-4 padding-0">
+                    <div class="box-image">
+                        <div class="fill-tile-border">
+                            <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/img/icon/home-img/rm-v-bermuda.jpg" alt="Bermuda Villas">
+                        </div>
+                        <div class="box-image-title edit-content" contenteditable="false" data-name="BERMUDA_VILLAS_TITLE">BERMUDA VILLAS</div>
+                        <div class="box-wrap">
+                            <div class="box-image-desc edit-content" contenteditable="false" data-name="BERMUDA_VILLAS_TEXT">These waterfront villas boast of their very own independent piers. Every villa is fitted with luxurious bath tubs and bath areas.</div>
+                            <div class="box-image-text">Learn More...</div>
+                        </div>
+                        <div class="ribbon-wrap">
+                            <div class="end-ribbon"></div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../tahiti_villas.html">
+                <div class="col-lg-4 col-md-4 col-sm-4 padding-0 mobile-os-custom">
+                    <div class="box-image">
+                        <div class="fill-tile-border">
+                            <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/img/icon/home-img/tahiti_villas.jpg" alt="Tahiti Villas">
+                        </div>
+                        <div class="box-image-title edit-content" contenteditable="false" data-name="TAHITI_VILLAS_TITLE">TAHITI VILLAS</div>
+                        <div class="box-wrap">
+                            <div class="box-image-desc edit-content" contenteditable="false" data-name="TAHITI_VILLAS_TEXT">Best of Pondy Resorts, Ocean Spray boasts of luxurious, opulent villas that come with their own stunning infinity pool. Enjoy a totally romantic and languorous swim in complete privacy.</div>
+                            <div class="box-image-text">Learn More...</div>
+                        </div>
+                        <div class="ribbon-wrap">
+                            <div class="end-ribbon"></div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../guadulope_villas.html">
+                <div class="col-lg-4 col-md-4 col-sm-4 padding-0">
+                    <div class="box-image">
+                        <div class="fill-tile-border">
+                            <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/img/icon/home-img/guadulope_villas.jpg" alt="Guadulope Villas">
+                        </div>
+                        <div class="box-image-title edit-content" contenteditable="false" data-name="GUADULOPE_VILLAS_TITLE">GUADELOUPE VILLAS</div>
+                        <div class="box-wrap">
+                            <div class="box-image-desc edit-content" contenteditable="false" data-name="GUADULOPE_VILLAS_TEXT">These lavish suites are surrounded by water on three sides and an undisturbed view. Every luxury villa is fitted with a private Jacuzzi.</div>
+                            <div class="box-image-text">Learn More...</div>
+                        </div>
+                        <div class="ribbon-wrap">
+                            <div class="end-ribbon"></div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+<!-- end Villas section -->
+
+<!-- start Rooms section -->
+<section id="ocean-rooms" class="room-villas-area os-rooms os-bottom-area os-page-title">
+    <div class="content-center">
+        <div class="os-title-wrap os-rooms-title-wrap">
+            <p class="os-title-text os-rooms-text edit-content" contenteditable="false" data-name="ROOMS_TITLE">Rooms</p>
+        </div>
+    </div>
+    <div class="container ocean-square-images">
+        <div class="row">
+            <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../ferns_rooms.html">
+                <div class="col-lg-4 col-md-4 col-sm-4 padding-0">
+                    <div class="box-image">
+                        <div class="fill-tile-border">
+                            <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/img/icon/home-img/rm-v-ferns-room.jpg" alt="Ferns Rooms">
+                        </div>
+                        <div class="box-image-title edit-content" contenteditable="false" data-name="FERNS_ROOMS_TITLE">FERNS</div>
+                        <div class="box-wrap">
+                            <div class="box-image-desc edit-content" contenteditable="false" data-name="FERNS_ROOMS_TEXT">Feel free to commune with nature in these comfortable rooms which overlook the lush, manicured lawns and with intimate, cosy sit-outs.</div>
+                            <div class="box-image-text">Learn More...</div>
+                        </div>
+                        <div class="ribbon-wrap">
+                            <div class="end-ribbon"></div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../cascade_rooms.html">
+                <div class="col-lg-4 col-md-4 col-sm-4 padding-0 mobile-os-custom">
+                    <div class="box-image">
+                        <div class="fill-tile-border">
+                            <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/img/icon/home-img/cascade_rooms.jpg" alt="Cascade Rooms">
+                        </div>
+                        <div class="box-image-title edit-content" contenteditable="false" data-name="CASCADE_ROOMS_TITLE">CASCADE</div>
+                        <div class="box-wrap">
+                            <div class="box-image-desc edit-content" contenteditable="false" data-name="CASCADE_ROOMS_TEXT">These rooms offer an unobtrusive view of the tranquil water body and resort’s landscaped surroundings and equipped with desk and tv.</div>
+                            <div class="box-image-text">Learn More...</div>
+                        </div>
+                        <div class="ribbon-wrap">
+                            <div class="end-ribbon"></div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../sky_jacuzzi_rooms.html">
+                <div class="col-lg-4 col-md-4 col-sm-4 padding-0">
+                    <div class="box-image">
+                        <div class="fill-tile-border">
+                            <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/img/icon/home-img/rm-v-heaven-room.jpg" alt="Sky Jacuzzi Rooms">
+                        </div>
+                        <div class="box-image-title edit-content" contenteditable="false" data-name="SKY_JACUZZI_TITLE">SKY JACUZZI</div>
+                        <div class="box-wrap">
+                            <div class="box-image-desc edit-content" contenteditable="false" data-name="SKY_JACUZZI_TEXT">If you’d prefer to pamper yourself with the ultimate in luxury we recommend The Heavens: opulent grandeur with private Jacuzzi and an open-air bath.</div>
+                            <div class="box-image-text">Learn More...</div>
+                        </div>
+                        <div class="ribbon-wrap">
+                            <div class="end-ribbon"></div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+<!-- end Rooms section -->
+
+<!-- start footer -->
+<!-- start contact us area -->
+<section class="contact_us_area content-left">
+    <div class="container">
+        <div class="contact_us clearfix">
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+                <div class="call clearfix">
+                    <h6 class="edit-content" contenteditable="false" data-ini-page="contact" data-name="CALL_US">Call Us</h6>
+                    <p class="edit-content" contenteditable="false" data-ini-page="contact" data-name="OCEANSPRAY_PHONE1">0413-2650000</p>
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-8 col-sm-8 col-xs-12">
+                <div class="hotel_booking_area custom os-booking-area">
+                    <div class="container">
+                        <div class="hotel_booking">
+                            <form id="form1" role="form" action="https://secure.staah.com/common-cgi/package/packagebooking.pl?propertyId=1863&amp;unk=2&amp;header=&amp;flexible=&amp;frame=&amp;source=&amp;layout=&amp;Ln=en" target="_blank" class="" method="POST" name="">
+                                <div class="booking-section">
+                                    <div class="form-group col-lg-3 col-md-3 col-sm-3 show-date-picker">
+                                        <div class="row">
+                                            <div class="col-lg-9 col-md-9 col-sm-9 padding-0">
+                                                <label>check-in</label>
+                                                <div class="input-group">
+                                                    <input class="date-picker" id="footerCheckIn" oninvalid="$.ocean.validMsg(this)" data-error-message="Please enter Check-In date" name="checkIn" placeholder="Select Date" value="" type="text" required="required"/>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-3 col-sm-3 calender padding-0">
+                                                <div class="input-group-addon">
+                                                    <i class="ocean-icon-22 calendar"></i>
+                                                    <div class="day" id="current-day"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group col-lg-3 col-md-3 col-sm-3 show-date-picker">
+                                        <div class="row">
+                                            <div class="col-lg-9 col-md-9 col-sm-9 padding-0">
+                                                <label>check-out</label>
+                                                <div class="input-group">
+                                                    <input class="date-picker" id="footerCheckOut" name="checkOut" oninvalid="$.ocean.validMsg(this)" data-error-message="Please enter Check-Out date" placeholder="Select Date" value="" type="text" required="required"/>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-3 col-sm-3 calender padding-0">
+                                                <div class="input-group-addon">
+                                                    <i class="ocean-icon-22 calendar"></i>
+                                                    <div class="day" id="next-day"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group col-lg-2 col-md-2 col-sm-2 room-pax">
+                                        <div class="row">
+                                            <div class="col-lg-8 col-md-8 col-sm-8 padding-0">
+                                                <label>GUESTS</label>
+                                                <div class="input-group">
+                                                    <!--<input class="input-room" type="text" value="1" readonly="true"/>-->
+                                                    <dl class="vertical">
+                                                        <dd>
+                                                            <select name="nguest" id="nguest" title="Number of Guests" class="span span20 contact-us-guests" oninvalid="$.ocean.validMsg(this);" data-error-message="Please select no of Guests" required="required">
+                                                                <option value="1" selected="true">1</option>
+                                                                <option value="2">2</option>
+                                                                <option value="3">3</option>
+                                                                <option value="4">4</option>
+                                                                <option value="5">5</option>
+                                                                <option value="6">6</option>
+                                                                <option value="7">7</option>
+                                                                <option value="8">8</option>
+                                                                <option value="9">9</option>
+                                                                <option value="10">10</option>
+                                                            </select>
+                                                        </dd>
+                                                    </dl>
+                                                </div>
+                                            </div>
+                                            <!--<div class="col-lg-7 col-md-6 col-sm-6">
+                                                <label>Adult</label>
+                                                <div class="input-group">
+                                                    <input class="input-members" type="text" value="1" readonly="true"/>
+                                                </div>
+                                            </div>-->
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 padding-0">
+                                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                                        <button type="submit" value="BOOK NOW" class="btn btn-primary book-now">BOOK NOW</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <!-- room-pax-->
+                        <!--<div class="room-pax-section-wrap">
+                            <div class="room-pax-widget fotter row margin-tb-15" data-roompaxwidget="true" data-template="RoomPaxWidget">
+                                <ul>
+                                    <li class="rooms">
+                                        <section class="row selection-panel">
+                                            <div class="col-lg-1 col-md-1 col-sm-2 col-xs-12">
+                                                <dl class="vertical roomNo">
+                                                    <dt><label title="Number of rooms"><strong>Rooms</strong></label></dt>
+                                                    <dd><select class="span span20 select-room" title="Number of rooms" tabindex="5">
+                                                            <option value="1" selected="true">1</option>
+                                                            <option value="2">2</option>
+                                                            <option value="3">3</option>
+                                                            <option value="4">4</option>
+                                                            <option value="5">5</option>
+                                                            <option value="6">6</option>
+                                                        </select></dd>
+                                                </dl>
+                                            </div>
+                                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+                                                <dl class="vertical">
+                                                    <dt class="margin-bottom-5">&nbsp;</dt>
+                                                    <dd style="text-align:right;">
+                                                        <span  id="Room1">Room 1:</span>
+                                                    </dd>
+                                                </dl>
+                                            </div>
+                                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+                                                <dl class="vertical">
+
+                                                    <dt><label for="Adults" title="Number of adults"><strong>Adults</strong></label>
+                                                        <small class="hint">(12+)</small>
+                                                    </dt>
+
+                                                    <dd>
+                                                        <select size="1" id="Adult_1" title="Number of adults"
+                                                                class="span span20 renderAdult alterAdult" tabindex="6">
+                                                            <option value="1">1</option>
+                                                            <option value="2" selected="true">2</option>
+                                                            <option value="3">3</option>
+                                                            <option value="4">4</option>
+                                                        </select>
+                                                    </dd>
+                                                </dl>
+                                            </div>
+                                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 alter-width">
+                                                <dl class="vertical">
+                                                    <dt><label for="Childrens" title="Number of Guests">Guests</label>
+                                                        <small class="hint">(11+)</small>
+                                                    </dt>
+                                                    <dd>
+                                                        <select size="1" id="Childs_1" title="Number of Guests"
+                                                                class="span span20" tabindex="7">
+                                                            <option value="0" selected="true">0</option>
+                                                            <option value="1">1</option>
+                                                            <option value="2">2</option>
+                                                            <option value="3">3</option>
+                                                            <option value="4">4</option>
+                                                            <option value="5">5</option>
+                                                            <option value="6">6</option>
+                                                            <option value="7">7</option>
+                                                            <option value="8">8</option>
+                                                            <option value="9">9</option>
+                                                            <option value="10">10</option>
+                                                        </select>
+                                                    </dd>
+                                                </dl>
+                                            </div>
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                                <div id="Age_1" class="row" style="">
+                                                    <div class="row">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </li>
+                                </ul>
+                            </div>
+                            <input type="hidden" id="NoOfRoom" name="num_rooms" value="1">
+                        </div>-->
+                        <!-- room pax end -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-2 col-sm-2 col-xs-12 os-email">
+                <div class="email_us clearfix">
+                    <h6 class="edit-content" contenteditable="false" data-ini-page="contact" data-name="EMAIL_US">Email Us</h6>
+                    <p class="edit-content" contenteditable="false" data-ini-page="contact" data-name="BANGALORE_ENVELOPE">bookings@oceanspray.in</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end contact us area -->
+<footer class="footer_area">
+    <div class="container">
+        <div class="footer">
+            <div class="footer_top padding-top-80 clearfix">
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="footer_widget">
+                        <div class="footer_logo">
+                            <a href="#"> <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/img/icon/ocean.png" alt="ocean"></a>
+                        </div>
+                        <ul>
+                            <li>
+                                <P><i class="ocean-icon-22 crosshairs "></i>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="BONJOUR_ENVELOPE1">Chennai Marketing Office</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="BONJOUR_ENVELOPE2">No 28, 1 st Floor,</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="BONJOUR_ADDRESS1">2 nd Street, Ravi colony,</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="BONJOUR_ADDRESS2">St. Thomas Mount,</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="BONJOUR_ADDRESS3">Guindy,Chennai -600 016.</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="BONJOUR_ADDRESS4">Mobile: 8056656777</span><br>
+                                </P>
+                            </li>
+                            <li>
+                                <P><i class="ocean-icon-22 crosshairs"></i>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="OCEANSPRAY_ENVELOPE">Resort Address: No.7, 8, 9 ECR Main Road,</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="OCEANSPRAY_MAP2">Manjakuppam, Marakanam T.K.,</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="OCEANSPRAY_MAP3">Tamilnadu - 604303, Tel: 0413-2650000</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="OCEANSPRAY_MAP1">reservations@oceanspray.in</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="OCEANSPRAY_PHONE2">9600250505</span>/
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="OCEANSPRAY_PHONE3">9003945678</span><br>
+                                </P>
+                            </li>
+                           
+                            <li>
+                                <P><i class="ocean-icon-22 crosshairs"></i>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="BANGALORE_ENVELOPE">bookings@oceanspray.in</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="BANGALORE_PHONE">+91 80 41523331</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="BANGALORE_MAP1">#100, 2nd Floor, Bharath Complex,</span><br>
+                                    <span class="edit-content" contenteditable="false" data-ini-page="contact" data-name="BANGALORE_MAP2">Infantry Road, Bangalore - 560001.</span>
+                                </P>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="row">
+                        <div class="footer_widget clearfix">
+                            <h5 class="padding-left-15">Quick Links</h5>
+                            <div class="col-lg-6 col-md-6 col-sm-6 link-desc">
+                                <ul>
+                                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../rooms_villas.html">Rooms & Villas</a></li>
+                                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../dining.html">Dining</a></li>
+                                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../recreation.html">Recreation</a></li>
+                                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../events.html">Events</a></li>
+                                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../about.html">About Us</a></li>
+                                    <!--<li><a href="#">Celebrations</a></li>
+                                    <li><a href="#">Daily Activities</a></li>-->
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 col-md-6 sol-sm-6 link-desc">
+                                <ul>
+                                    <!--<li><a href="https://www.oceanspray.in/discotheque">Discotheque</a></li>-->
+                                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../banquet.html">Banquet</a></li>
+                                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../hotel_facilities.html">Hotel Facilities</a></li>
+                                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../spa.html">Elysium Spa</a></li>
+                                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../contact.html">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="footer-announcement-block" style="display:none;">
+                            <div class="block">
+        <span class="highlight">
+            <link href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../css.yatra.com/content/yatra-seo/default/css/yatra_hotel_tag.css" rel="stylesheet" type="text/css">
+    <div style="background:transparent url(../../../../../../../../../../../../../../../../../../../../../../../../../../../../../ns.yatracdn.com/common/images/backlink-widget/backlink_tag_blue_3_150x150.png) 0 0 no-repeat;color:#000;height:150px;width:150px;position:relative;float:left">
+        <span style="position:absolute;font-size:12px;font-family:Montserrat Regular;top: 15px;left: 6px;width:94%;text-align:center">
+             2016
+        </span>
+        <span style="position:absolute; font-size:12px;font-family:Montserrat Bold;top: 65px;left: 6px;text-align: center;width: 67%;margin:0 19px;text-transform: uppercase;">
+             Romantic Stay
+        </span>
+        <span style="position:absolute;font-size:11px;font-family:Montserrat Regular;top: 93px;left: 6px; text-align:center;width:94%;color:#fff">
+             Luxury Hotel
+        </span>
+        <span style="position:absolute;font-size: 11px;line-height: 11px;font-family:Montserrat Regular;top: 120px;left: 6px;color: #333333; text-align: center;width: 78%;overflow: hidden;margin: 0px 12px;height: 26px;">
+             Bonjour Bonheur Ocean Spray
+        </span>
+    </div>
+     <div style="color: #dad50f; margin-left: 160px;"><br>WINNER OF YATRA <br/>"<b>ROMANTIC STAY</b>" OF THE YEAR 2016
+     </div>
+        </span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="footer_widget">
+                        <!-- <h5>We Are Global</h5>-->
+                        <div class="footer-map">
+                            <div style="height:280px;width:350px;max-width:100%;list-style:none; transition: none;overflow:hidden; margin: 0 auto;">
+                                <div id="embedded-map-display" style="height:100%; width:100%;max-width:100%;">
+                                    <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.4199608791331!2d79.87999859802666!3d12.065535253715113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a536582531044e9%3A0xccde1ed275afab2d!2sOcean+Spray!5e0!3m2!1sen!2sus!4v1493297803353"></iframe>
+                                </div>
+                                <a class="code-for-google-map" id="authorize-map-data">bluehost vs godaddy</a>
+                                <style>#embedded-map-display .map-generator{max-width:100%;max-height:100%;background:none}</style>
+                            </div>
+                            <!--<a href="#"><img src="https://www.oceanspray.in/application/web/views/web/img/footer-map-two.jpg" alt=""></a>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row floatright contact_us">
+                <div class="social_icons clearfix">
+                    <ul>
+                        <li><a href="https://www.facebook.com/OceanSprayPondicherry" data-toggle="tooltip" data-placement="top" data-original-title="Facebook" target="_blank"><i class="ocean-icon-22 facebook"></i></a></li>
+                        <li><a href="https://twitter.com/OceanSprayPondy" data-toggle="tooltip" data-placement="top" data-original-title="Twitter" target="_blank"><i class="ocean-icon-22 twitter"></i></a>
+                        </li>
+                        <!--<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>-->
+                        <li><a href="https://www.pinterest.com/oceanspraypondy/" data-toggle="tooltip" data-placement="top" data-original-title="Pinterest" target="_blank"><i class="ocean-icon-22 pinterest"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="container">
+                    <div class="footer_copyright margin-top-110 margin-bottom-50 content-center">
+                        <p>© 2018 <a href="#">Ocean Spray Resort</a>. All rights reserved</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="gisocial-website">
+        <div>A website by <a href="https://www.gisocial.com/" target="_blank">GI Social</a></div>
+    </div>
+</footer>
+
+<!-- fonts -->
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Karla:700,400' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Lora:400,700' rel='stylesheet' type='text/css'>
+
+<!-- proxima-nova -->
+<link rel="stylesheet" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/css/font/proxima_nova.css"/>
+
+<!-- jquery library -->
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/js/vendor/jquery-1.11.2.min.js"></script>
+<!-- bootstrap -->
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/js/bootstrap.min.js"></script>
+
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/js/datepicker.js"></script>
+
+<!-- Cookie -->
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/js/jquery.cookie.js"></script>
+
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/js/custom.js"></script>
+
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/js/socialCircle.js"></script>
+
+<!-- Pinterest js -->
+<script type="text/javascript" async defer src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../assets.pinterest.com/js/pinit.js"></script>
+<script>var $is_super_admin=false;(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','../../../../../../../../../../../../../../../../../../../../../../../../../../../../../www.google-analytics.com/analytics.js','ga');ga('create','UA-32646233-1','auto');ga('send','pageview');</script>
+
+<!-- lightslider -->
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../application/web/views/web/js/lightslider.js"></script>
+<script>$(document).ready(function($){$('#image-gallery').lightSlider({gallery:true,item:1,thumbItem:6,slideMargin:0,thumbMargin:24,verticalHeight:600,vThumbWidth:100,speed:500,auto:true,loop:true,onSliderLoad:function($el){$('#image-gallery').removeClass('cS-hidden');var $_booking_wrap=$el.closest(".gallery-container").find(".book-wrap");$el.after($_booking_wrap);var _edit_contents_gallery=$el.closest(".gallery-container").find(".edit-content .icon-delete");if(_edit_contents_gallery.length>1&&$is_super_admin){_edit_contents_gallery.click(function(event){event.preventDefault();var $_this=$(this);if(!confirm('Are you sure to Delete this Image?'))return false;String.prototype.filename=function(extension){var s=this.replace(/\\/g,'../../../../../../../../../../../../../../../../../../../../../../../../../../../../index.html');s=s.substring(s.lastIndexOf('../../../../../../../../../../../../../../../../../../../../../../../../../../../../index.html')+1);return extension?s.replace(/[?#].+$/,''):s;};var file_name=$_this.attr('data-link').filename();var folder_name=$_this.parents('.gallery-container').data("name");if(folder_name!=''&&file_name!=''){$.ajax({url:PROJ_URL+"deleteImage",type:"post",data:{folder_name:folder_name,file_name:file_name,},dataType:"json",success:function(data){if(data&&data.error==undefined){location.reload();}else if(data&&data.error){if(data.error!=undefined)$.ocean.loginError(data);}},error:function(){}});}});}else{if(!$is_super_admin){_edit_contents_gallery.remove();$el.closest('.gallery-container').find(".add-icon-gallery").remove();}_edit_contents_gallery.first().remove();}},onAfterSlide:function($el,scene){if($el.length>0&&scene){var $_current_slide=$el.children().eq(scene);$_current_slide.closest(".gallery-container").find(".book-wrap").children('.blur').css("background-image","url('"+$_current_slide.attr('data-thumb')+"')");}}});});</script>
+<!-- end footer -->
+
+<script>$(document).ready(function($){setTimeout(function(){$(".banner-tag").addClass('animate');},2000);});</script>
+</body>
+
+
+<!-- Mirrored from www.oceanspray.in/rooms_villas/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/application/web/views/web/img/icon/home-img/rm-v-bermuda.jpg by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Sep 2018 10:24:36 GMT -->
+</html>
